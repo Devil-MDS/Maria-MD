@@ -4,9 +4,9 @@ const chalk = require('chalk')
 //contact details
 global.ownernumber = ['923107058820']
 global.ownername = "Devilking𓆪_✰"//owner name
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ytname = "YT: Devilking.inc"
+global.socialm = "GitHub: Devilking"
+global.location = "Pakistan"
 
 global.botname = 'DevilG-𝐌𝐃' //name of the bot
 
@@ -15,7 +15,7 @@ global.stickername = '💙𓆩‎Devilking_✰'
 global.packname = 'Sticker By'
 global.author = 'Devil Bot'
 //console view/theme
-global.themeemoji = '🧩'
+global.themeemoji = '😈'
 global.wm = "Devil botz inc."
 
 //theme link
@@ -38,11 +38,11 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*🎀 Maria Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
+    done: '*here you go!* \n\n*🎀 Devil Bot 🎀*\n\n*🧩 Bot link:* \nhttps://github.com/AYUSH-PANDEY023/Maria-MD\n',
     prem: '*This feature can be used by premium user only*',
-    admin: '*This feature can be used by admin only*',
+    admin: '*This feature can be used by Devil only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
-    owner: '*This feature can be used by owner only*',
+    owner: '*This feature can be used by Devil only*',
     group: '*This feature is only for groups*',
     private: '*This feature is only for private chats*',
     wait: '*In process...* ',    
